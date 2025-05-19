@@ -22,3 +22,38 @@ The **Low-Cost Myoelectric Prosthetic Arm** project aims to develop an affordabl
    ```bash
    git clone https://github.com/yourusername/low-cost-myoelectric-prosthetic-arm.git
    cd low-cost-myoelectric-prosthetic-arm
+
+## Installation
+
+### Install Arduino IDE
+- Download and install the Arduino IDE from the [Arduino Software](https://www.arduino.cc/en/software).
+
+### Install Required Libraries
+- Open the Arduino IDE and navigate to:
+- - Install the necessary libraries (e.g., **Servo**).
+
+### Set Up Hardware
+- Connect the Arduino board and other components as per the circuit design.
+
+## Usage
+1. Open the Arduino IDE and load the main project sketch located in the `src` directory.
+2. Upload the sketch to the Arduino board.
+3. Use the prosthetic arm to perform various tasks by flexing the muscles to control the movements.
+
+## Components
+- **Arduino Nano**: Microcontroller for processing signals.
+- **BioAmp Candy**: Muscle sensor for detecting EMG signals.
+- **Metal Gear Digital Servo Motor**: Actuator for finger movements.
+- **Power Supply**: 7.4V rechargeable lithium-ion battery.
+- **3D Printed Components**: Framework for the prosthetic arm.
+
+## Methodology
+- **Design**: Utilized a 3D-printed framework for flexibility and customization.
+- **Signal Processing**: Integrated the BioAmp Candy for precise EMG signal detection.
+- **Actuation**: Employed servo motors for finger movements.
+- **Testing**: Conducted user-centered testing to evaluate functionality and comfort.
+
+## Results
+- Successfully demonstrated the ability to grasp various everyday objects.
+- Achieved a lifting capacity of up to 1 kg.
+- Users reported improved functionality and comfort during testing.
