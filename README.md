@@ -1,4 +1,4 @@
-##### Low-Cost Myoelectric Prosthetic Arm
+# Low-Cost Myoelectric Prosthetic Arm
 
 ## Overview
 The **Low-Cost Myoelectric Prosthetic Arm** project aims to develop an affordable and functional prosthetic arm for individuals with upper limb amputations. By utilizing the Whiffletree mechanism and advancements in material science, this project seeks to enhance accessibility and improve the quality of life for amputees.
