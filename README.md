@@ -18,13 +18,7 @@ User -Centered Approach: Designed with input from stakeholders to ensure functio
 Durability and Functionality: Incorporates advanced materials and mechanisms for reliable performance.
 Realistic Hand Structure: Aesthetically designed to resemble a natural hand.
 Installation
-Clone the Repository:
 
-bash
-Run
-Copy code
-git clone https://github.com/yourusername/low-cost-myoelectric-prosthetic-arm.git
-cd low-cost-myoelectric-prosthetic-arm
 Install Arduino IDE:
 
 Download and install the Arduino IDE from Arduino Software.
