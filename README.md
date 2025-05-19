@@ -1,4 +1,4 @@
-# Low-Cost Myoelectric Prosthetic Arm
+![hand](https://github.com/user-attachments/assets/d9293a09-697c-48fa-a9b8-ab6d9d678450)# Low-Cost Myoelectric Prosthetic Arm
 
 ## Overview
 The **Low-Cost Myoelectric Prosthetic Arm** project aims to develop an affordable and functional prosthetic arm for individuals with upper limb amputations. By utilizing the Whiffletree mechanism and advancements in material science, this project seeks to enhance accessibility and improve the quality of life for amputees.
@@ -57,3 +57,8 @@ The **Low-Cost Myoelectric Prosthetic Arm** project aims to develop an affordabl
 - Successfully demonstrated the ability to grasp various everyday objects.
 - Achieved a lifting capacity of up to 1 kg.
 - Users reported improved functionality and comfort during testing.
+
+  ![hand](https://github.com/user-attachments/assets/c259664d-a213-48e8-89b4-abe7a35887e7)
+  ![Hold Penstand](https://github.com/user-attachments/assets/e8cb27cc-0482-4fd0-8d9a-8a4c1c29902d)
+
+
